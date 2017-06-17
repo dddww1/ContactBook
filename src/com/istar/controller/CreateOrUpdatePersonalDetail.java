@@ -26,7 +26,7 @@ public class CreateOrUpdatePersonalDetail extends HttpServlet {
 			Object paramValue = request.getParameter(key.toString());
 			System.out.println("Param -> " + paramName + " : Value ->" + paramValue);
 		}
-
+//commit2
 		/**
 		 * This block gets all the data to edit particular entry in the database
 		 */
